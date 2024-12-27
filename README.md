@@ -47,7 +47,7 @@ Tento projekt využívá následující technologie a knihovny:
 
 🎁 **Chceš detailní vysvětlení každého kroku a tipy, jak program upravit?**  
 Podívej se na podrobný článek, který jsem vytvořil na Patreonu:  
-👉 [Podrobný článek: Naprogramuj svůj vlastní vánoční stromek]()  
+👉 [Podrobný článek: Naprogramuj svůj vlastní vánoční stromek](https://www.patreon.com/posts/118794756?pr=true)  
 
 Na Patreonu najdeš nejen tento projekt, ale i další zábavné úlohy, které ti pomohou zdokonalit se v programování.  
 
